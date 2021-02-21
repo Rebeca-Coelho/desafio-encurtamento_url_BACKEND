@@ -74,9 +74,9 @@ RETORNA: "/url/delete/[ID]" Deleta ourl por id específico e retorna mensagem am
 			    📂---controller
 			    |       **urlController.js**
 			    |
-          📂---data
-          |     **url.json**
-          | 
+          		   📂---data
+                            |     **url.json**
+          		    | 
 			    📂---model
 			    |       **urlSchema.js
 					|       Repository.js**
