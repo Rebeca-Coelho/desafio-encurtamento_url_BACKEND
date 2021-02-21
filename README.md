@@ -122,4 +122,5 @@ encontrada, retornar HTTP 404.
 **O presente API "Desafio-encurtamento_url" está em constante desenvolvimento.**
 
 Autora: Rebeca Coelho
+
 Linkedin: www.linkedin.com/in/rebeca-coelho
