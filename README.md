@@ -16,13 +16,21 @@ A url retornada deve ser salva no banco de dados POSTGRESQL e possuir um prazo d
 
 ## DEPENDÊNCIAS UTILIZADAS NO CÓDIGO:
 npm init
+
 npm install
+
 npm install express
+
 npm install nodemon
+
 npm install typescript
+
 npm install dotenv
+
 npm install pg
+
 npm install postgresql
+
 npm install bookshelf
 
 ## CRUD SENDO UTILIZADO COMO OS 3 NECSSÁRIOS PARA O DESAFIO:
