@@ -1,5 +1,7 @@
 # desafio-encurtamento_url_BACKEND
 
+![logo](logoUrl.png)
+
 ## Olá! :D :D :D
 
 #ENCURTAMENTO DE URL
