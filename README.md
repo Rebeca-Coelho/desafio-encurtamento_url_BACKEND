@@ -129,7 +129,7 @@ encontrada, retornar HTTP 404.
 
 
 
-**O presente API "Desafio-encurtamento_url" está em constante desenvolvimento.**
+<span style="color:red;">**O presente API "Desafio-encurtamento_url" está em constante desenvolvimento.**</span>
 
 Autora: Rebeca Coelho
 
