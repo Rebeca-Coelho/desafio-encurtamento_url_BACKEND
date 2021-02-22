@@ -128,8 +128,7 @@ redirecionamento para a url salva no banco ( http://wisereducacao.com ), caso n�
 encontrada, retornar HTTP 404.
 
 
-
-<span style="color:red;">**O presente API "Desafio-encurtamento_url" está em constante desenvolvimento.**</span>
+**O presente API "Desafio-encurtamento_url" está em constante desenvolvimento.**
 
 Autora: Rebeca Coelho
 
