@@ -52,19 +52,19 @@ RETORNA index com apresentação {mensagem: "Wiser educacao - Dona da rede de id
 
 ROUTER.post -
 "/create"
-RETORNA:  "/url/add" Cria novo campo na url e retorna mensagem amigável.
+RETORNA:  "/url/add" Cria novo campo na url e retorna mensagem amigável. 
 
 
 ROUTER.put - 
 "/update/:id"
 RETORNA:  "/url/update/description/[ID]" Atualiza somente a descrição do url por id específico e retorna mensagem amigável.
 OU
-"/url/atualizar/[ID]" Atualiza completamente o campo do url e retorna mensagem amigável.
+"/url/atualizar/[ID]" Atualiza completamente o campo do url e retorna mensagem amigável. 
 
 
 ROUTER.delete -
 "/:id"
-RETORNA: "/url/delete/[ID]" Deleta ourl por id específico e retorna mensagem amigável.
+RETORNA: "/url/delete/[ID]" Deleta ourl por id específico e retorna mensagem amigável. 
 
 
 ## Arquitetura MVC
@@ -74,7 +74,7 @@ RETORNA: "/url/delete/[ID]" Deleta ourl por id específico e retorna mensagem am
 		 |   .gitignore
 		 |   package-lock.json
 		 |   package.json
-	   |   **server.js**
+	         |   **server.js**
 			\--📂 node_modules
 			\--📂src
 			    |   **app.js**
@@ -87,13 +87,13 @@ RETORNA: "/url/delete/[ID]" Deleta ourl por id específico e retorna mensagem am
           		    | 
 			    📂---model
 			    |       **urlSchema.js
-					|       Repository.js**
+		            |	    **Repository.js**
 			    |
 			    📂---routes
-			            **urlRoute.js
-									index.js**
-                        📂---validator
-			                    **urlValidator.js
+			     |      **urlRoute.js**
+			     |      **index.js**
+                            📂---validator
+			     |      **urlValidator.js
 								
 
 ### Endpoints
@@ -102,13 +102,13 @@ RETORNA: "/url/delete/[ID]" Deleta ourl por id específico e retorna mensagem am
 
 ### links para testar o API
 
-- **/url/wisereducacao/:id**
+GET =  http://localhost:8081/url/
 
-  - Buscar a url cadastrada dentro dos arquivos para o usuário ler.
+POST = http://localhost:8081/url/add
 
-**/url/request/delete/:id**
+PUT =  http://localhost:8081/url/:id
 
-- Excluir o url cadastrado na API.
+DELETE = http://localhost:8081/url/:id
 
 
 ## PROCEDIMENTO: Exemplo ao encurtar
