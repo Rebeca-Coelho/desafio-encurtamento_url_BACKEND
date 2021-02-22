@@ -2,7 +2,7 @@
 
 ![logo](logoUrl.png)
 
-## Olá! :D :D :D
+## Olá! 😃 😃 😃
 
 #ENCURTAMENTO DE URL
 
