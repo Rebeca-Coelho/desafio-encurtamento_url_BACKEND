@@ -92,10 +92,10 @@ RETORNA: "/url/delete/[ID]" Deleta ourl por id específico e retorna mensagem am
 		            |	    **Repository.js**
 			    |
 			    📂---routes
-			     |      **urlRoute.js**
-			     |      **index.js**
+			    |      **urlRoute.js**
+			    |      **index.js**
                             📂---validator
-			     |      **urlValidator.js
+			    |      **urlValidator.js
 								
 
 ### Endpoints
