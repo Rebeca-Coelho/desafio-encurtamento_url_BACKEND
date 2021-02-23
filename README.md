@@ -82,14 +82,14 @@ RETORNA: "/url/delete/[ID]" Deleta ourl por id específico e retorna mensagem am
 			    |   **app.js**
 			    |
 			    📂---controller
-			    |       **urlController.js**
+			    |     **urlController.js**
 			    |
           		   📂---data
                             |     **url.json**
           		    | 
 			    📂---model
-			    |       **urlSchema.js
-		            |	    **Repository.js**
+			    |      **urlSchema.js
+		            |	   **Repository.js**
 			    |
 			    📂---routes
 			    |      **urlRoute.js**
