@@ -35,7 +35,7 @@ npm install postgresql
 
 npm install bookshelf
 
-## CRUD SENDO UTILIZADO COMO OS 3 NECSSÁRIOS PARA O DESAFIO:
+## CRUD SENDO UTILIZADO COMO NECSSÁRIO PARA O DESAFIO:
 Create = criar url
 Read = ler url
 Update = atualizar url
